@@ -1,0 +1,23 @@
+{
+  "name": "simulador_carrito",
+  "version": "1.0.0",
+  "description": "Simulador de carrito con HTML, CSS y JAVASCRIPT puro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coni05/Simulador_Carrito.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coni05/Simulador_Carrito/issues"
+  },
+  "homepage": "https://github.com/coni05/Simulador_Carrito#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
